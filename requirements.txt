@@ -1,6 +1,6 @@
 certifi==2019.6.16
 chardet==3.0.4
-Django==2.2.4
+Django==2.2.22
 django-admin-tools==0.8.1
 django-appmedia==1.0.1
 django-auth-ldap==2.0.0
