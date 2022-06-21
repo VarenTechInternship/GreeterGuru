@@ -18,7 +18,7 @@ gpiozero==1.5.1
 idna==2.8
 linecache2==1.0.0
 Markdown==3.1.1
-numpy==1.16.4
+numpy==1.22.0
 Pillow==6.0.0
 pad4pi==1.1.5
 pyasn1==0.4.6
